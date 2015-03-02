@@ -1,0 +1,7 @@
+Kristian Brown
+3/1/15
+Lab 3
+
+For this lab I modified the shadedCube.html and shadedCube.js files from the Angel directories to fit the purpose of this lab.
+I changed the vertices to a random 3D object, did some changes to the color, the rendering, removed the rotate buttons, and
+added the arrow key functionality.
